@@ -57,7 +57,7 @@ star <- import("~/Documents/workflow/data/star.csv")
 ```
 
 # Introduction and Overview
-Guo et al. [-@guo_et_al_2015] explore expectancy value in mathematics, gender and socioeconomic background as predictors of achievement. A multi-cohort study is used in the research [see @guo_et_al_2015]. Stoet and Geary [-@stoet_geary_2018] connects math with gender equality. Some other researchers study a similar topic. [see @stoet_geary_2018]. Quinn and Cooc [-@quinn_cooc_2015] take these topics further by creating a model that predicts science achievement gaps by gender and race.  
+Guo et al. [-@guo_et_al_2015] explore expectancy value in mathematics, gender and socioeconomic background as predictors of achievement. A multi-cohort study is used in the research [see @guo_et_al_2015]. Stoet and Geary [-@stoet_geary_2018] connects math with gender equality. Some other researchers study a similar topic [see @stoet_geary_2018]. Quinn and Cooc [-@quinn_cooc_2015] take these topics further by creating a model that predicts science achievement gaps by gender and race.  
 
 # Methods
 We report how we determined our sample size, all data exclusions (if any), all manipulations, and all measures in the study. <!-- 21-word solution (Simmons, Nelson & Simonsohn, 2012; retrieved from http://ssrn.com/abstract=2160588) -->
